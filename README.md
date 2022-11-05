@@ -1,4 +1,4 @@
-#It's project2
+# It's project2
 ## python learning project
 
 learning python variable
